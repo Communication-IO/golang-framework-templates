@@ -1,0 +1,2 @@
+
+GoCraft Framework readme
