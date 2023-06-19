@@ -50,6 +50,6 @@ Web.go is very light at the top of the list, and falls in the category of Google
 Final Thoughts
 Each of these frameworks has an array of capabilities and functions that can be used on your next project. They are among the top google’s Go language frameworks that will help you go ahead with your web or mobile project for app development. Before you choose the one that is the best from the list, ensure you know the needs of the project first. You can also talk to our technical experts for more in-depth knowledge of their capabilities.
 
-If you are looking to hire golang developers, or create something robust using the Go Web Frameworks, you can get in touch with TFT anytime to discuss the details of your project. Being one of the best Golang Development Company, TFT has a team of experts who are always available to assist you with the latest technology knowledge as well as the ability and talent.
+If you are looking to hire golang developers, or create something robust using the Go Web Frameworks, you can get in touch with our team anytime to discuss the details of your project. Being one of the best Golang Development Company, Our has a team of experts who are always available to assist you with the latest technology knowledge as well as the ability and talent.
 
 
