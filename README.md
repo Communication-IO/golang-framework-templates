@@ -17,30 +17,29 @@ Martini operates as a system instead of a framework which means it can be easily
 Among the various Golang Frameworks used to support Web Development, Buffalo is an extremely useful framework to begin your project in a hurry. Furthermore, it serves as an integrated web development platform that is useful for a variety of projects.
 
 6. Goji see https://github.com/goji/goji
-7. 
 Goji is a light and fast Golang Framework for Web Development thanks to its perfect combination of simplicity and writing capabilities. Because it is light and fast, Goji is the best choice for most mobile application development firms and companies working on various web-based projects.
 
-8. Beego see https://github.com/beego/beego
+7. Beego see https://github.com/beego/beego
 In a few ways, we have found that Beego is similar to the comprehensive Django web framework that was designed for Python. It provides a unique set of functions and features that are typical of web-based applications. Furthermore, it is divided into eight different modules that can be eliminated or utilized depending on the need.
 
 In addition to the broad-ranging MVC components that appear in the most popular web applications, the framework also contains the ORM (Object-Relationship Map) to allow access to information, tools for managing sessions as well as an in-built cache handler. Additionally, it comprises libraries that support joint operation as well as HTTP components, elements, and a variety of log systems.
 
 Beego is yet another method that is indicative of Django with its various command-line tools. For example, a developer can utilize the bee command to create Beego applications from scratch or work with existing apps.
 
-7. Mangos see https://github.com/nanomsg/mangos
+8. Mangos see https://github.com/nanomsg/mangos
 Mangos framework helps you build and develop modules that are reusable for HTTP functionality as easily and quickly as possible. Additionally, it provides an array of software and middleware that can be combined into one HTTP server object that can be used to sustain your code in a self-directed manner.
 
 It’s not being maintained regularly, but a lot of Golang users continue to use it. Its modularity is an amazing aspect of this framework for web development. You can pick different libraries to include diverse features in your web project.
 
-8. Gocraft
+9. Gocraft
 Another solid yet old-fashioned framework is Gocraft which provides fast and flexible routing features. Routing is added as a feature by its HTTP and net program in The benchmark library. It’s a Go mux-based middleware application with casting and reflection capabilities, allowing you to write your application code statically.
 
 In addition, you can build your own or add features using the existing middleware. Since programmers have the highest priority for the performance of their applications, Gocraft is a great choice for those who need to create their own. Additionally, it’s simple to write and create backend web applications using Gocraft framework.
 
-9. Web.go see https://github.com/gocraft/work
+10. Web.go see https://github.com/gocraft/work
 Web.go is very light at the top of the list, and falls in the category of Google’s most basic Golang web-based frameworks. It’s simple and is among the most popular Golang frameworks that provide additional features through the tree-routing system. In any scenario, you’re implementing or working on a project which requires routing, Web.go could be the right choice.
 
-10. Echo see https://echo.labstack.com/
+11. Echo see https://echo.labstack.com/
     
 12. Fiber is an Express inspired web framework built on top of Fasthttp, the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind.
 
