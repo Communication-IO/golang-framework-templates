@@ -39,9 +39,11 @@ In addition, you can build your own or add features using the existing middlewar
 9. Web.go
 Web.go is very light at the top of the list, and falls in the category of Google’s most basic Golang web-based frameworks. It’s simple and is among the most popular Golang frameworks that provide additional features through the tree-routing system. In any scenario, you’re implementing or working on a project which requires routing, Web.go could be the right choice.
 
-10. Echo
-11. Fiber
-12. Kit 
+10. Echo see https://echo.labstack.com/
+11. 
+12. Fiber is an Express inspired web framework built on top of Fasthttp, the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind.
+13. 
+14. Kit see https://gokit.io/
 
 Final Thoughts
 Each of these frameworks has an array of capabilities and functions that can be used on your next project. They are among the top google’s Go language frameworks that will help you go ahead with your web or mobile project for app development. Before you choose the one that is the best from the list, ensure you know the needs of the project first. You can also talk to our technical experts for more in-depth knowledge of their capabilities.
