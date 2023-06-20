@@ -31,7 +31,7 @@ Mangos framework helps you build and develop modules that are reusable for HTTP 
 
 It’s not being maintained regularly, but a lot of Golang users continue to use it. Its modularity is an amazing aspect of this framework for web development. You can pick different libraries to include diverse features in your web project.
 
-9. Gocraft
+9. Gocraft see https://pkg.go.dev/github.com/gocraft/work
 Another solid yet old-fashioned framework is Gocraft which provides fast and flexible routing features. Routing is added as a feature by its HTTP and net program in The benchmark library. It’s a Go mux-based middleware application with casting and reflection capabilities, allowing you to write your application code statically.
 
 In addition, you can build your own or add features using the existing middleware. Since programmers have the highest priority for the performance of their applications, Gocraft is a great choice for those who need to create their own. Additionally, it’s simple to write and create backend web applications using Gocraft framework.
